@@ -4,7 +4,7 @@ import { Expansion } from "./expansion/expansion";
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <Expansion />
     </div>
   );

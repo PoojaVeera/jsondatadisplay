@@ -20,7 +20,7 @@
         "pincode": "600053"
       },
       {
-        "PROPERTY": "(15015121-2)",
+        "PROPERTY": "(15015121-3)",
         "city": "Chennai",
         "street": "adaman naghar main street",
         "colony": "ambattur",
@@ -36,21 +36,21 @@
     "subaddress": [
       {
         "PROPERTY": "(15015112-1)",
-        "city": "Chennai",
+        "city": "tirupati",
         "street": "Near ambattur busstand",
         "colony": "sriram",
         "pincode": "600053"
       },
       {
         "PROPERTY": "(15015121-2)",
-        "city": "Chennai",
+        "city": "hyd",
         "street": "vinayaka koil street",
         "colony": "ambattur",
         "pincode": "600053"
       },
       {
         "PROPERTY": "(15015121-2)",
-        "city": "Chennai",
+        "city": "tutticorn",
         "street": "adaman naghar main street",
         "colony": "ambattur",
         "pincode": "600053"
@@ -65,7 +65,7 @@
     "subaddress": [
       {
         "PROPERTY": "(15015112-1)",
-        "city": "Chennai",
+        "city": "kanyakumari",
         "street": "Near ambattur busstand",
         "colony": "sriram",
         "pincode": "600053"
