@@ -1,0 +1,89 @@
+[
+  {
+    "id": "1",
+    "branchid": "AMB20200010 ",
+    "username": "RAMANATHAN SHARMA",
+    "userid": "15014015",
+    "subaddress": [
+      {
+        "PROPERTY": "(15015112-1)",
+        "city": "Chennai",
+        "street": "Near ambattur busstand",
+        "colony": "sriram",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "vinayaka koil street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "adaman naghar main street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "userid": "AMB20190060",
+    "username": "VISHWANATHAN S",
+    "branchid": "15012114",
+    "subaddress": [
+      {
+        "PROPERTY": "(15015112-1)",
+        "city": "Chennai",
+        "street": "Near ambattur busstand",
+        "colony": "sriram",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "vinayaka koil street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "adaman naghar main street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "userid": "AMB20190120",
+    "username": "VISHNUVARDHAN T",
+    "branchid": "15016111",
+    "subaddress": [
+      {
+        "PROPERTY": "(15015112-1)",
+        "city": "Chennai",
+        "street": "Near ambattur busstand",
+        "colony": "sriram",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "vinayaka koil street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      },
+      {
+        "PROPERTY": "(15015121-2)",
+        "city": "Chennai",
+        "street": "adaman naghar main street",
+        "colony": "ambattur",
+        "pincode": "600053"
+      }
+    ]
+  }
+]
